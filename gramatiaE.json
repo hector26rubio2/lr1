@@ -1,0 +1,15 @@
+{
+  "lamda": "°",
+  "T": ["a", "d"],
+  "PInicial": "H",
+  "producciones": [
+    {
+      "NT": "S",
+      "produccion": ["CC"]
+    },
+    {
+      "NT": "C",
+      "produccion": ["aC", "d"]
+    }
+  ]
+}
